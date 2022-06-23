@@ -1,0 +1,1 @@
+Just simple piece of code changing string into morse code.
